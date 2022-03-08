@@ -1,4 +1,4 @@
-import product from "../data/product.json"
+
 const Card = (props) => {
     return (
         <figure>
